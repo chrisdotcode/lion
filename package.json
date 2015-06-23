@@ -1,0 +1,24 @@
+{
+  "name": "lion",
+  "version": "1.0.0",
+  "description": "A hostile and aggressive simplistic router for Node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chrisdotcode/lion.git"
+  },
+  "keywords": [
+    "router",
+    "routing",
+    "url"
+  ],
+  "author": "Chris Blake",
+  "license": "BSD3",
+  "bugs": {
+    "url": "https://github.com/chrisdotcode/lion/issues"
+  },
+  "homepage": "https://github.com/chrisdotcode/lion"
+}
